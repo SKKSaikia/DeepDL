@@ -7,4 +7,4 @@ Algorithms in Python ~ Deep Learning
 - LSTM
 - GRU
 
-Reading : [Colah-LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) | [Attention and Augmented RNN](https://distill.pub/2016/augmented-rnns/) | [GRU step by step](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+Reading : [Colah-LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) | [Attention and Augmented RNN](https://distill.pub/2016/augmented-rnns/) | [Michael - RNN](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9) Step by Step- [LSTM^GRU](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21) Step by Step
